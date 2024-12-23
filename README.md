@@ -8,6 +8,6 @@ Este curso foi focado em ensinar habilidades essenciais para o desenvolvimento w
 - Criar filtros dinâmicos para os dados da API
 - Fazer a tradução de um layout predefinido em uma aplicação funcional
 - Utilizar async await para criar funções assíncronas
-- onstruir uma plataforma de compartilhamento de vídeos
+- Construir uma plataforma de compartilhamento de vídeos
 - Conhecer as Promises e seus métodos
 - Tratar possíveis erros de requisição retornados da API
